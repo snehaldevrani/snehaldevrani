@@ -13,7 +13,7 @@ Software Engineer Intern @ EPAM | Distributed Systems & Data Engineering
 - Built using Python (asyncio), SQLite, systemd
 
 ### [Investment Optimization Tool (Game Economy)](https://greasyfork.org/en/scripts/554173-torn-stock-investment-advisor)
-- Used by **1300+ users** worldwide.
+- **1300+ installs** worldwide.
 - Real-time financial insights with lightweight serverless backend
 - Secure access layer using Cloudflare Workers
 - Built using JavaScript and Cloudflare Workers
