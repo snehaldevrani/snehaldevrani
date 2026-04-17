@@ -6,13 +6,13 @@ Software Engineer Intern @ EPAM | Distributed Systems & Data Engineering
 
 ## 🚀 Selected Work
 
-### [Real-Time Market Surveillance Platform](https://github.com/snehaldevrani/realtime-market-surveillance)
+### [Real-Time Data Pipeline & Alerting System](https://github.com/snehaldevrani/realtime-market-surveillance)
 - Processes **2.4M+ API requests/day** across **300+ credentials**
 - Maintains **99.9% uptime** with fault-tolerant async architecture
 - Implements adaptive rate limiting and resilient request orchestration
 - Built using Python (asyncio), SQLite, systemd
 
-### [Investment Analytics SaaS](https://greasyfork.org/en/scripts/554173-torn-stock-investment-advisor)
+### [Investment Optimization Tool (Game Economy)](https://greasyfork.org/en/scripts/554173-torn-stock-investment-advisor)
 - Used by **1300+ users** worldwide.
 - Real-time financial insights with lightweight serverless backend
 - Secure access layer using Cloudflare Workers
