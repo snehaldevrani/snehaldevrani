@@ -6,7 +6,7 @@ Software Engineer Intern @ EPAM | Distributed Systems & Data Engineering
 
 ## 🚀 Selected Work
 
-### [Real-Time Market Surveillance Platform](https://github.com/snehaldevrani/Real-Time-Data-Pipeline-Alerting-System)
+### [Real-Time Market Surveillance Platform](https://github.com/snehaldevrani/realtime-market-surveillance)
 - Processes **2.4M+ API requests/day** across **300+ credentials**
 - Maintains **99.9% uptime** with fault-tolerant async architecture
 - Implements adaptive rate limiting and resilient request orchestration
